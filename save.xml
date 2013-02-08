@@ -1,0 +1,82 @@
+<option>
+	<run>0</run>
+	<gameclock>26.291</gameclock>
+	<xmap>10</xmap>
+	<ymap>11</ymap>
+	<density>50</density>
+	<bonus>50</bonus>
+	<nbPlayer>1</nbPlayer>
+	<nbIA>1</nbIA>
+</option>
+<player>
+	<id>0</id>
+	<colorR>32</colorR>
+	<colorG>33</colorG>
+	<colorB>241</colorB>
+	<colorA>107</colorA>
+	<pos>5.69;6.09</pos>
+	<direction>0</direction>
+	<ia>0</ia>
+	<caract>
+		<life>1</life>
+		<speed>4</speed>
+		<maxBomb>1</maxBomb>
+		<actualBomb>1</actualBomb>
+	</caract>
+</player>
+<player>
+	<id>1</id>
+	<colorR>171</colorR>
+	<colorG>157</colorG>
+	<colorB>201</colorB>
+	<colorA>222</colorA>
+	<pos>1.88;5.41</pos>
+	<direction>2</direction>
+	<ia>1</ia>
+	<caract>
+		<life>0</life>
+		<speed>4</speed>
+		<maxBomb>2</maxBomb>
+		<actualBomb>1</actualBomb>
+	</caract>
+</player>
+<bomb>
+	<idPlayer>1</idPlayer>
+	<pos>2.5;5.5</pos>
+	<timer>12.8651</timer>
+	<delay>3</delay>
+	<range>1</range>
+</bomb>
+<bomb>
+	<idPlayer>0</idPlayer>
+	<pos>1.5;7.5</pos>
+	<timer>13.7127</timer>
+	<delay>3</delay>
+	<range>1</range>
+</bomb>
+<map>
+	<xmax>11</xmax>
+	<ymax>11</ymax>
+	<line>0;0;0;0;0;0;0;0;0;0;0</line>
+	<line>0;7;7;4;7;7;1;7;7;7;0</line>
+	<line>0;7;0;7;0;7;0;1;0;7;0</line>
+	<line>0;7;6;1;7;7;4;7;1;7;0</line>
+	<line>0;4;0;6;0;7;0;7;0;7;0</line>
+	<line>0;7;7;7;7;7;7;7;7;7;0</line>
+	<line>0;7;0;1;0;7;0;7;0;7;0</line>
+	<line>0;7;7;7;7;7;7;7;7;7;0</line>
+	<line>0;7;0;7;0;7;0;7;0;7;0</line>
+	<line>0;7;7;7;7;7;7;7;7;7;0</line>
+	<line>0;0;0;0;0;0;0;0;0;0;0</line>
+</map>
+<camera>
+	<posX>0</posX>
+	<posY>0</posY>
+	<posZ>900</posZ>
+	<posnX>0</posnX>
+	<posnY>0</posnY>
+	<posnZ>-1</posnZ>
+	<rotX>0</rotX>
+	<rotY>0</rotY>
+	<rotZ>0</rotZ>
+</camera>
