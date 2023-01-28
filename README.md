@@ -3,4 +3,4 @@ Bomberman
 
 Bomberman - C++ - Opengl - SFML
 
-Bonus - Multi-Player - (Stupid) IA
+Bonus - Multi-Player - (Stupid) AI
